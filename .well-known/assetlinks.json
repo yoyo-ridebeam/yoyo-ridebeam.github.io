@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "com.escooterapp.yoyo_instant_app",
+                 "sha256_cert_fingerprints": ["0E:2E:C0:8B:99:AA:F3:51:4C:EF:A5:14:A6:B9:0E:EA:85:FD:A6:F6:AB:A2:40:DB:27:C9:45:2E:8F:4E:97:D6"] }
+  }]
